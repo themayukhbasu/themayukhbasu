@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning Tensorflow and Git
+- 🌱 I'm currently learning Rust and Database Internals
 - ⚡ Fun fact: Penguins :penguin: are flightless birds
 
 - StackOverflow: [mb0850](https://stackoverflow.com/users/3577783/mb0850)
+- LinkedIn: [mayukh](http://linkedin.com/in/mayukhbose)
